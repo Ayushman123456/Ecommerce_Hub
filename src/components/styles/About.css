@@ -3,23 +3,25 @@
   margin-top: 5rem;
   /* padding: 2rem; */
   z-index: 2;
-  background: #1B4D3E;
+  /* background: #1B4D3E; */
   
 }
 
 .about h1 {
-  font-size: 3rem;
+  font-size: 1.5rem;
+  text-decoration: underline;
+  color: rgb(104, 106, 106);
   font-weight: 100;
   width: 100%;
-  background-color: #ACE1AF;
+  /* background-color: #d7fad9; */
   padding: 30px;
   text-align: center;
-  text-shadow: 5px 1px 6px rgba(0, 0, 0, 0.3);
+  /* text-shadow: 5px 1px 6px rgba(0, 0, 0, 0.3); */
   /* font-family: "Ubuntu", sans-serif; */
   font-family: "Source Sans Pro", sans-serif;
   /* text-decoration: underline; */
   margin-bottom: 2rem;
-  color: #004526;
+  /* color: #004526; */
   cursor: default;
 
 }
@@ -32,7 +34,8 @@
   font-family: "Source Sans Pro", sans-serif;
   text-align: justify;
   padding: 20px;
-  color: white;
+  color: grey;
+  /* color: white; */
   padding-bottom: 3rem;
   /* color: #004526; */
   cursor: default;
